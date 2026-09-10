@@ -2,9 +2,9 @@
 
 ## Environment
 
-- Host operating system: <!-- Windows, macOS, or Linux -->
-- Learning environment: <!-- Ubuntu VM, macOS Terminal, or existing Linux -->
-- GitHub username: <!-- username only; do not add your email -->
+- Host operating system: Linux
+- Learning environment: Linux Terminal
+- GitHub username: swatoichell-creat
 
 ## Reflection
 
