@@ -38,7 +38,7 @@ words and identify any symlink target.
 
 What is the difference between `/var/log` and this task's `/var/logs/system-inventory/`?
 
-   /var/log stores general system logs, while /var/logs/system-inventory/ is a separate, task-specific directory for system-inventory files.
+   /var/log stores general system logs, while /var/logs/system-inventory/ is a separate, task-specific directory for system-inventory files
 
 What is the difference between `/etc/services`, service files under
 `/etc/systemd/system`, and currently running services?
@@ -94,3 +94,4 @@ needed:
 - [x] I tested the script manually and observed two cron-created reports.
 - [x] I did not commit raw reports, secrets, payment details, or verification documents.
 - [x] I changed only files inside my own Task 02 submission folder.
+
