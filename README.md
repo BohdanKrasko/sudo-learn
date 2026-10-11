@@ -144,6 +144,7 @@ it. Delete the task branch after the merge.
 | --- | --- | --- |
 | [01 — Prepare your work environment](tasks/01-work-environment/README.md) | GitHub account, Git, Ubuntu VM on Windows, or Terminal on macOS | Available |
 | [02 — Linux inventory with Bash and cron](tasks/02-linux-inventory/README.md) | VS Code, Gemini student offer, Linux directories, services, mounts, and cron | Available |
+| [03 — Secure Linux file sharing](tasks/03-linux-permissions/README.md) | Users, groups, ownership, permissions, setgid, umask, and least privilege | Available |
 
 ## Getting help
 
