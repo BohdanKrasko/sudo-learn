@@ -14,8 +14,8 @@ words and identify any symlink target.
 
 | Path     | Directory or symlink/target | Purpose                                                  |
 | ---      | ---                         | ---                                                      |
-| `/etc`   |                             | <!-- Your explanation -->                                |
-| `/var`   |                             | <!-- Your explanation -->                                |
+| `/etc`   | directory                   | Contains system-wide configuration files                 |
+| `/var`   | directory                   | variable directory which contains files expected to grow |
 | `/bin`   | symlink                     | bin is folder with your most basic binaries, programs    |
 | `/sbin`  | symlink                     | system binaries which only sys admin could use           |
 | `/boot`  | directory                   | place where bootloader lives                             |
@@ -33,7 +33,6 @@ words and identify any symlink target.
 | `/sys`   | directory                   | the kernel directory                                     |
 | `/tmp`   | directory                   | temporaly stored files by aplications                    |
 | `/usr`   | directory                   | user aplication space where apps installed used by user  |
-| `/var`   | directory                   | variable directory which contains files expected to grow |
 | `/home`  | directory                   | contains user home directory                             |
 
 What is the difference between `/var/log` and this task's `/var/logs/system-inventory/`?
